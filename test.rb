@@ -13,4 +13,8 @@ class Test
   def new conflict
 
   end
+
+  def axy
+
+  end
 end
