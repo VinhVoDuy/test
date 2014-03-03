@@ -1,5 +1,4 @@
 class Test
-  def conflict_from_master
-
+  def conflict
   end
 end
