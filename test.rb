@@ -1,9 +1,7 @@
 class Test
-  def conflict
-
-  end
-
-  def new conflict
-
-  end
+  abc
+  xyz
+  gih
+  klm
+  mno
 end
