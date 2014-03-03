@@ -1,6 +1,7 @@
 class Test
-
-  def axy
-
-  end
+  abc
+  xyz
+  gih
+  klm
+  mno
 end
