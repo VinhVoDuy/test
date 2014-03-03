@@ -9,4 +9,8 @@ class Test
   def what_make_conflict
 
   end
+
+  def new conflict
+
+  end
 end
