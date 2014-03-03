@@ -1,18 +1,5 @@
 class Test
-  kalsf
-
-  alksdfo
-  alskdfj
-  def asd
+  def conflict
 
   end
-  def xyz
-
-  end
-  lkajdf
-
-  def another
-  def new method
-  end
-  laksjdf
 end
