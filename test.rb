@@ -2,11 +2,11 @@ class Test
   def conflict
   end
 
-  def new conflict
+  def another conflict
 
   end
 
-  def new conflict
+  def what_make_conflict
 
   end
 end
