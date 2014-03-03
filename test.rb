@@ -5,4 +5,8 @@ class Test
   def new conflict
 
   end
+
+  def new conflict
+
+  end
 end
