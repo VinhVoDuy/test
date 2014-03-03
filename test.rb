@@ -4,4 +4,5 @@ class Test
   gih
   klm
   mno
+  another addition
 end
